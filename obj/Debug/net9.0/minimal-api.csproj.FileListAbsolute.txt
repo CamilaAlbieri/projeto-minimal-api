@@ -131,3 +131,11 @@ C:\Portifolio\BootCamp.NET\minimal-api\bin\Debug\net9.0\Microsoft.OpenApi.dll
 C:\Portifolio\BootCamp.NET\minimal-api\obj\Debug\net9.0\minimal-api.MvcApplicationPartsAssemblyInfo.cs
 C:\Portifolio\BootCamp.NET\minimal-api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Portifolio\BootCamp.NET\minimal-api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Portifolio\BootCamp.NET\minimal-api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Portifolio\BootCamp.NET\minimal-api\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Portifolio\BootCamp.NET\minimal-api\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Portifolio\BootCamp.NET\minimal-api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Portifolio\BootCamp.NET\minimal-api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Portifolio\BootCamp.NET\minimal-api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Portifolio\BootCamp.NET\minimal-api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Portifolio\BootCamp.NET\minimal-api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
